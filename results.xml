@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1706706669" />
+    <testcase name="test" classname="tb" file="C:\Users\Kimo Store\AppData\Roaming\Python\Python39\site-packages\pyuvm\extension_classes.py" lineno="5" time="88.91104030609131" sim_time_ns="1582580.001" ratio_time="17799.589292304987" />
+  </testsuite>
+</testsuites>
